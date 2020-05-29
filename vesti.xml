@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0">
+    <channel>
+        <title>Vesti o turističkoj agenciji Blondi</title>
+		<link>https://markostojanovic4419.github.io/markostojanovicportfolio</link>
+		<description>Najnovije vesti o sinonimu filmskog turizma</description>
+        <item>
+			<title>Dobar loš zao</title>
+			<link>https://markostojanovic4419.github.io/markostojanovicportfolio/index.html#dobarLosZao</link>
+			<description>Putovanje koje ste Vi najbolje ocenili jeste Dobar loš zao sa prosečnom ocenom 5.0 na skali od 1 do 5.</description>
+		</item>
+        <item>
+			<title>Nagrade</title>
+			<link>https://markostojanovic4419.github.io/markostojanovicportfolio/oNama.html#nagrade</link>
+			<description>Turistička agencija Blondi dobitnik je najprestižnije nagrade u oblasti turizma u Srbiji Turistički cvet koju joj je dodelila Turistička organizacija Srbije 2019.</description>
+		</item>
+		<item>
+			<title>Formati karte</title>
+			<link>https://markostojanovic4419.github.io/markostojanovicportfolio/rezervacije.html#formatiKarte</link>
+			<description>Turistička agencija Blondi Vam dozvoljava slobodan izbor formata karte kada neko od putovanja iz naše ponude rezervišete posredstvom naše elektronske rezervacije.</description>
+		</item>
+		<item>
+			<title>Oglašavanje</title>
+			<link>https://markostojanovic4419.github.io/markostojanovicportfolio/kontakt.html#oglasavanje</link>
+			<description>Oglašavanje na vozilima turističke agencije Blondi funkcioniše tako što se dogovara za reklamu na željenom broju vozila bilo sa stranom ili domaćom kompanijom osim sa konkurentima u turizmu.</description>
+		</item>
+    </channel>
+</rss>
